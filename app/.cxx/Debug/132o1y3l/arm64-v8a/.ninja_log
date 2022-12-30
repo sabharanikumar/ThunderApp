@@ -1,0 +1,5 @@
+# ninja log v5
+0	419	1672340868	CMakeFiles/MemFillTool.dir/src/main/cpp/MemFillTool/MemOpUtils.cpp.o	7786e85859db179f
+419	982	1672340869	../../../../build/intermediates/cxx/Debug/132o1y3l/obj/arm64-v8a/libMemFillTool.so	74c754539e13f978
+2	660	1672383648	CMakeFiles/MemFillTool.dir/src/main/cpp/MemFillTool/MemOpUtils.cpp.o	7786e85859db179f
+661	1331	1672383648	../../../../build/intermediates/cxx/Debug/132o1y3l/obj/arm64-v8a/libMemFillTool.so	74c754539e13f978

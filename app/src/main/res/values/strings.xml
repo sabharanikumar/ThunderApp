@@ -6,7 +6,28 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
+    <string name="pref_key_version">prefs_version</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pref_key_max_memory_mb">prefs_max_memory_mb</string>
+    <string name="service_1">Service 1</string>
+    <string name="service_2">Service 2</string>
+    <string name="service_3">Service 3</string>
+    <string name="service_4">Service 4</string>
+    <string name="service_5">Service 5</string>
+    <string name="service_6">Service 6</string>
+    <string name="service_7">Service 7</string>
+    <string name="service_8">Service 8</string>
+    <string name="service_9">Service 9</string>
+    <string name="service_10">Service 10</string>
+    <string name="service_11">Service 11</string>
+    <string name="service_12">Service 12</string>
+    <string name="service_13">Service 13</string>
+    <string name="service_14">Service 14</string>
+    <string name="service_15">Service 15</string>
+    <string name="service_16">Service 16</string>
+    <string name="service_17">Service 17</string>
+    <string name="service_18">Service 18</string>
+    <string name="service_19">Service 19</string>
+    <string name="service_20">Service 20</string>
 </resources>

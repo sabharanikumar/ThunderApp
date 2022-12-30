@@ -82,7 +82,9 @@ public class TestServiceModerate extends JobService {
             new Thread(new Runnable() {
                 public void run() {
                    // getRamStatus();
-                    cpuFrequencyTuner();
+                   // ====> cpuFrequencyTuner();
+                    MemOpUtils.malloc(100);
+                    getRamStatus();
                     System.out.println("INSIDE THREAD ::::");
                 }
             }).start();
@@ -127,6 +129,9 @@ public class TestServiceModerate extends JobService {
         long availableMemoryInMegabytes = availableMemory / 1048576;
         long total = totalMemory/ 1048576;
 
+        System.out.println(availableMemory);
+        System.out.println(total);
+
     }
 
     public long getRamStatus()
@@ -143,8 +148,8 @@ public class TestServiceModerate extends JobService {
         System.out.println("Total memory: " + totalMemoryMB + "MB");
         System.out.println("Available memory: " + availableMemoryMB + "MB");
 
-        System.out.println(totalMemory+" :::::::::::::::");
-        System.out.println(availableMemory+" ::::::::::::::");
+        System.out.println(totalMemoryMB+"  MB:::::::::::::::");
+        System.out.println(availableMemoryMB+"  MB::::::::::::::");
 
         return availableMemoryMB;
     }

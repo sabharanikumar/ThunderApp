@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sbharani/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sbharani/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "MemFillTool::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "MemFillTool",
+      "output": "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/build/intermediates/cxx/Debug/132o1y3l/obj/arm64-v8a/libMemFillTool.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/sbharani/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/sbharani/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

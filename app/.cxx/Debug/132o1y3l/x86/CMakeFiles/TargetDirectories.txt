@@ -1,0 +1,3 @@
+/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/x86/CMakeFiles/rebuild_cache.dir
+/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/x86/CMakeFiles/edit_cache.dir
+/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/x86/CMakeFiles/MemFillTool.dir

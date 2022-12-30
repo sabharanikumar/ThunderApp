@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/.cxx/Debug/132o1y3l/arm64-v8a",
+  "command": "/Users/sbharani/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sbharani/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sbharani/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DMemFillTool_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/MemFillTool.dir/src/main/cpp/MemFillTool/MemOpUtils.cpp.o -c /Users/sbharani/AndroidStudioProjects/ThunderApp2/app/src/main/cpp/MemFillTool/MemOpUtils.cpp",
+  "file": "/Users/sbharani/AndroidStudioProjects/ThunderApp2/app/src/main/cpp/MemFillTool/MemOpUtils.cpp"
+}
+]
