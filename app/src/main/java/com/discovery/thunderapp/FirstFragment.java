@@ -11,6 +11,11 @@ import androidx.navigation.fragment.NavHostFragment;
 
 import com.discovery.thunderapp.databinding.FragmentFirstBinding;
 
+/*
+ * @author: Sasikumar Bharanikumar
+ * @version: 1.0
+ */
+
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
