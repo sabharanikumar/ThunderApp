@@ -2,6 +2,11 @@ package com.discovery.thunderapp;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/*
+ * @author: Sasikumar Bharanikumar
+ * @version: 1.0
+ */
+
 public class LoadSampler implements Runnable
 {
     private static final int NCHUNKS = 1000;
