@@ -1,18 +1,6 @@
 /*
- * Created by Bob Shen on 18-8-9 下午5:28
- * Copyright(c) 2018. All rights reserved.
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
+ * @author: Sasikumar Bharanikumar
+ * @version: 1.0
  */
 
 #include "MemOpUtils.h"
@@ -31,7 +19,7 @@ static int *p[MAX_SIZE];
 static int count = 0;
 
 /*
- * Class:     com_ayst_stresstest_util_MemOpUtils
+ * @author: Sasikumar Bharanikumar
  * Method:    malloc
  * Signature: ()I
  */
@@ -55,7 +43,6 @@ JNIEXPORT jint JNICALL Java_com_discovery_thunderapp_MemOpUtils_malloc
 }
 
 /*
- * Class:     com_ayst_stresstest_util_MemOpUtils
  * Method:    free
  * Signature: ()I
  */
