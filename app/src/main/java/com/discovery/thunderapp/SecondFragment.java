@@ -11,6 +11,12 @@ import androidx.navigation.fragment.NavHostFragment;
 
 import com.discovery.thunderapp.databinding.FragmentSecondBinding;
 
+
+/*
+ * @author: Sasikumar Bharanikumar
+ * @version: 1.0
+ */
+
 public class SecondFragment extends Fragment {
 
     private FragmentSecondBinding binding;
